@@ -45,3 +45,25 @@ The system transforms raw abstracts into **publication-ready versions** while ma
 ---
 
 ## System Architecture
+
+
+Optional extensions include database storage, authentication, and analytics.
+
+---
+
+
+## Technology Stack
+
+| Layer | Technology |
+|------|------------|
+| Backend | FastAPI |
+| Frontend | HTML, JavaScript |
+| LLM Integration | OpenAI API |
+| Containerization | Docker |
+| Database (optional) | PostgreSQL |
+| Deployment | Docker Compose |
+
+---
+
+## Project Structure
+
